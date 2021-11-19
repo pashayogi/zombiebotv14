@@ -1,7 +1,6 @@
 # Zombi Bot v14
 # If u have problem in BOT
 # Contact me ?
-# Email : nedjworgan@gmail.com
 # My email : oiboyseclinux@gmail.com
 # Telegram: https://t.me/Pashayogipranata
 
