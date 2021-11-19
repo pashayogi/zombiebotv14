@@ -3,8 +3,8 @@
 # Contact me ?
 # Email : nedjworgan@gmail.com
 # ICQ: @viper1337official
-# My Facebook Page: https://www.fb.com/viper1337official/
-# Telegram: https://t.me/Viper1337official
+# My email : oiboyseclinux@gmail.com
+# Telegram: https://t.me/Pashayogipranata
 
 Install Python 2.7 To Run All Tools
 
